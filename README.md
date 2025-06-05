@@ -55,5 +55,3 @@ This notebook explores a dataset containing treadmill usage information, user de
 
 ---
 
-## 📁 Folder Structure
-
